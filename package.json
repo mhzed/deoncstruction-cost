@@ -1,0 +1,17 @@
+{
+  "name": "deoncstruction-cost",
+  "version": "1.0.0",
+  "description": "deoncstruction-cost --------",
+  "main": "index.js",
+  "scripts": {
+    "bench": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "nodeunit": "^0.11.2"
+  }
+}
